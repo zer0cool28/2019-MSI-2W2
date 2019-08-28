@@ -6,14 +6,15 @@ La cátedra de Metodología de Sistemas I (MSI) de la Tecnicatura Universitaria 
 
 ## Teórico 📖
 
-Siempre tener en cuenta que todos los trabajos prácticos solicitados por el docente, tendrán su soporte teórico desde la documentación brinda por la catedra. La cual se accede desde la [UV MSI](https://uv.frc.utn.edu.ar/course/view.php?id=188)
+Siempre tener en cuenta que todos los trabajos prácticos solicitados tendrán su respaldo teórico desde la documentación brindada por los docentes de la cátedra. 
+Esta información se encuentra  en la [UV institucional de UTN-FRC](https://uv.frc.utn.edu.ar/), **Curso**: [TUP-MSI Metodología de Sistemas I](https://uv.frc.utn.edu.ar/).
 
 ## Links 📄
  
  Accesos a url de interes
  
- * [UTN-FRC](https://www.frc.utn.edu.ar/)
- * [UV MSI](https://uv.frc.utn.edu.ar/course/view.php?id=188)
+ * [UTN-FRC Página Web](https://www.frc.utn.edu.ar/)
+ * [TUP-MSI Metodología de Sistemas I](https://uv.frc.utn.edu.ar/)
  
  ## Autores ✒️
 
