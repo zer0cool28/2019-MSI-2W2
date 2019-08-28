@@ -12,7 +12,7 @@ _**2019-UTN-FRC-TUP-MSI-2W2**_
 
 ## Teórico 📖
 
-<p align="justify"  >Siempre tener en cuenta que todos los trabajos prácticos solicitados tendrán su respaldo teórico desde la documentación brindada por los docentes de la cátedra. Esta información se encuentra  en la [UV institucional de UTN-FRC](https://uv.frc.utn.edu.ar/)<p> 
+<p align="justify"  >Siempre tener en cuenta que todos los trabajos prácticos solicitados tendrán su respaldo teórico desde la documentación brindada por los docentes de la cátedra. Esta información se encuentra  en la  <a href="https://uv.frc.utn.edu.ar/">UV institucional de UTN-FRC</a><p> 
  
    **Curso**: [TUP-MSI Metodología de Sistemas I](https://uv.frc.utn.edu.ar/).
 
