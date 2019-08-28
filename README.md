@@ -6,7 +6,7 @@ La cátedra de Metodología de Sistemas I (MSI) de la Tecnicatura Universitaria 
 
 ## Teórico 📖
 
-_No olvidar que todos los trabajos prácticos solicitados por el docente, tendrán su soporte teórico desde la documentación brinda por la catedra. La cual se accede desde la [UV MSI](https://uv.frc.utn.edu.ar/course/view.php?id=188)_
+Siempre tener en cuenta que todos los trabajos prácticos solicitados por el docente, tendrán su soporte teórico desde la documentación brinda por la catedra. La cual se accede desde la [UV MSI](https://uv.frc.utn.edu.ar/course/view.php?id=188)
 
 ## Links 📄
  
@@ -17,6 +17,6 @@ _No olvidar que todos los trabajos prácticos solicitados por el docente, tendr�
  
  ## Autores ✒️
 
-* **Exequiel Santoro** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand) - Email: esantoro@utn.frc.edu.com.ar 
+* **Exequiel Santoro** - *Trabajo Inicial* - [Chapadiex](https://github.com/Chapadiex) - Email: esantoro@frc.utn.edu.ar
 
 
