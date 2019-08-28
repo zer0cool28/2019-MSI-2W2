@@ -1,8 +1,8 @@
 _**2019-UTN-FRC-TUP-MSI-2W2**_
 # Metodología de Sistemas I (2W2)
-
 ## Introducción 🚀
 
+![MetodologíaDeSistemasI](https://github.com/UTN-TUP-MSI/2019-MSI-2W2/blob/master/MetodologiaSistemaI.png "Metodología de Sistemas I")
 La cátedra de **Metodología de Sistemas I** (MSI) de la **Tecnicatura Universitaria en Programación** (TUP) crea el siguiente repositorio con el propósito de que los estudiantes pueden aplicar esta herramienta a la construcción del conocimiento durante el dictado de la materia. 
 
 Aquí tendrán toda la información sobre los trabajos prácticos que se realicen de manera centralizada, y podrán adquirir un acercamiento a la utilización de una de la herramienta más necesarias en el mercado y a nivel mundial como GIT HUB.
