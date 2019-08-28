@@ -1,6 +1,6 @@
 _**2019-UTN-FRC-TUP-MSI-2W2**_
 # Metodología de Sistemas I (2W2)
-Desde la carrera de Tecnicatura Universitaria en Programación *(TUP)* surge la iniciativa por parte de la catedra de Metodología de Sistemas I *(MSI)* crear el siguiente repositorio con la finalidad de los alumnos pueden aplicar el conocimiento adquirido en el dictado de la misma. Además de poder tener toda la información de los trabajos que realicen en forma centralizado, sin perder de foco la utilización de una de la herramienta más usadas en el mercado y a nivel mundial como *GIT HUB* sirviendo así de introducción al manejo de la herramienta..
+La cátedra de Metodología de Sistemas I (MSI) de la Tecnicatura Universitaria en Programación (TUP) crea el siguiente repositorio con el propósito de que los estudiantes pueden aplicar esta herramienta a la construcción del conocimiento durante el dictado de la materia. Aquí tendrán toda la información sobre los trabajos prácticos que se realicen de manera centralizada, y podrán adquirir un acercamiento a la utilización de una de la herramienta más necesarias en el mercado y a nivel mundial como GIT HUB.
 
 ---
 
