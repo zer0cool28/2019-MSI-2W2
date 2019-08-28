@@ -1,6 +1,6 @@
 _**2019-UTN-FRC-TUP-MSI-2W2**_
 
-![MetodologíaDeSistemasI](https://github.com/UTN-TUP-MSI/2019-MSI-2W2/blob/master/MetodologiaSistemaI.png "Metodología de Sistemas I")
+<img src="https://github.com/UTN-TUP-MSI/2019-MSI-2W2/blob/master/MetodologiaSistemaI.png" width="100%" title="Metodología de Sistemas I" alt="Metodología de Sistemas I">
 
 ## Introducción 🚀
 
