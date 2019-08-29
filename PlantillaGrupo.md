@@ -17,7 +17,7 @@
 
 
 ## Trabajo Practico Entregas :clipboard:
-- [x] Primera Entrega
-- [ ] Segunda Entrega
-- [ ] Tercera Entrega
-- [ ] Cuarta Entrega
+- [x] Entrega Primera Parte
+- [ ] Entrega Segunda Parte
+- [ ] Entrega Tercera Parte
+- [ ] Entrega Cuarta Parte
